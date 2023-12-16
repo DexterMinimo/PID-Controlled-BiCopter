@@ -12,6 +12,10 @@ Our project is currently in progress and nearing completion. VTOL UAVs have a mu
 
 ## Videos of the Project
 
+
+https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/b8951d8d-a3ff-49f2-907a-3dfcd77428c0
+
+
 You can access some of the videos of the ongoing project by following this [link](https://drive.google.com/drive/folders/1VBcQ2Rr2qNcvuwxplIHjNcZY8To1Jt6Y?usp=sharing). 
 
 By November end, I would have organized all the resources and videos for other people's use, till then please wait patiently.
