@@ -1,32 +1,27 @@
 # PID-Controlled-BiCopter
-Project Name: VTOL UAV Inspired by V-22 Osprey
 
-**Description:**
+## Overview
 
-Welcome to our VTOL UAV project, where we draw inspiration from the iconic V-22 Osprey to create an innovative aircraft. We aim to design a Vertical Takeoff and Landing (VTOL) UAV capable of transitioning between helicopter-like vertical flight and fixed-wing mode for enhanced speed and efficiency.
+This repository contains the code and documentation for a Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV) project. The project's initial phase involved testing with Arduino Mega, SimonK ESC, and brushless motors. Subsequently, the project transitioned to Adaptive PID (Proportional-Integral-Derivative) controllers and Model Reference Adaptive Control (MRAC) for enhanced performance with the help of the Pixhawk flight controller.
 
-**Challenges tackled:**
+## Hardware Used
 
-Unique Design: Our UAV features a novel tiltrotor design, mirroring the V-22 Osprey's capabilities.<br>
-Our project is currently in progress and nearing completion. VTOL UAVs have a multitude of potential applications, from surveillance to cargo delivery. We invite you to join us on this exciting journey and stay tuned for further updates on our UAV's development.<be>
+- Arduino Mega
+- SimonK Electronic Speed Controllers (ESCs) 30Amp
+- Brushless Motors (A2212 1000 KV and EMAX RS2205)
+- Pixhawk 2.4.8 Drone Flight Controller
+- Emax ES08MA II Servo
+- Orange 2200mAh 3S 30C/60C (11.1V)Lithium Polymer Battery Pack
 
-## Videos of the Project
+## Images/Videos of the Project
 
+![parameter analysis](https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/e2715694-d1e5-4f84-ba27-2a89c738f93e)
+![step_response](https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/b6735082-6ce4-466d-ab28-f508251cecc3)
+![simulink base](https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/d4e2e2ef-9419-4c2e-909b-af3a64dd2c2f)
+![simulink pid](https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/e65df838-45ff-42c2-b5b9-32c315554350)
+![external output stabilization](https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/9ce74cc6-c0c7-4e39-a802-5adc1322c33a)
 
 https://github.com/dublin74/PID-Controlled-BiCopter/assets/89651266/b8951d8d-a3ff-49f2-907a-3dfcd77428c0
 
+You can access some of the videos of the project by following this [link](https://drive.google.com/drive/folders/1VBcQ2Rr2qNcvuwxplIHjNcZY8To1Jt6Y?usp=sharing). 
 
-You can access some of the videos of the ongoing project by following this [link](https://drive.google.com/drive/folders/1VBcQ2Rr2qNcvuwxplIHjNcZY8To1Jt6Y?usp=sharing). 
-
-By November end, I would have organized all the resources and videos for other people's use, till then please wait patiently.
-
-# ICCCNT 2023 Research Paper
-
-## Paper Title
-
-**Title:** *Effective Evacuation Planning by Leveraging
-Building Information*
-
-## Research Paper Link
-
-You can access the full research paper for ICCCNT 2023 by following this [link](https://drive.google.com/drive/folders/14xxjs9Ps3dUrRSRdWns_fE6zB7bpZAl-?usp=sharing). 
